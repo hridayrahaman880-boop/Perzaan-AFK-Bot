@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "POZAXSMP_BOT",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Pozaxsmp.aternos.me",
+    "port": 18514,
     "version": "1.21.1"
   },
   "position": {
